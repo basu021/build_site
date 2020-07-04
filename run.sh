@@ -264,7 +264,7 @@ sleep 2s
 echo ' '
 echo ' '
 echo ' '
-read -p $'\e[1;49;32mPRESS ENTER TO RUN COLORCODE ☺️ \e[0m'
+read -p $'\e[1;49;32mPRESS ENTER TO RUN Build Site ☺️ \e[0m'
 
 cd
 
