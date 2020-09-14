@@ -7,6 +7,10 @@ unzip file.zip
 sleep 2
 
 rm file.zip
+
+clear
+
+bash start.sh
 else
 if [ ! -d $HOME/build_site/data.zip ] ; then
 rm data.zip
